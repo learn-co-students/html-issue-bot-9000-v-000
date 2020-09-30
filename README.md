@@ -17,7 +17,7 @@ Bleep bloop, please help Issue Bot 9000 solve all HTML validation errors using t
 1. open index.html in your text editor.
 2. copy the code from index.html and paste it into the W3C validator at: [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input). Then click the large check button to check the code. Use the error messages to correct the code line by line. Save the file then re-validate the code again until all errors are gone. This will make Issue Bot 9000 very happy!
 
-## Resources
+## Resources and useful links
 
 [W3C HTML Validator - Validate Direct Input](http://validator.w3.org/#validate_by_input)
 
